@@ -10,7 +10,8 @@
 - [Credits](#credits)
 
 ### Date created
-Include the date you created this project and README file.
+
+_September 12th, 2021_
 
 ### Explore US Bikeshare Data
 
