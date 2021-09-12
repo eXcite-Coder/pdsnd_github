@@ -16,7 +16,8 @@ Include the date you created this project and README file.
 
 
 ### Description
-Describe what your project is about and what it does
+
+  This project forks [Udacity repository](https://github.com/udacity/pdsnd_github) to a [remote repository](https://github.com/eXcite-Coder/pdsnd_github) in Github account. Clone the [remote](https://github.com/eXcite-Coder/pdsnd_github) repository to local machine. Later, as a part of the project "Post your Work on Github", pushes proposed changes to the [remote](https://github.com/eXcite-Coder/pdsnd_github) repository in this Github account.  
 
 ### Files used
 Include the files used
