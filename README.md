@@ -2,6 +2,13 @@
 
 ### Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [Date created](#date-created)
+- [Post your Work on Github](#post-your-work-on-github)
+- [Description](#description)
+- [Files used](#files-used)
+- [Credits](#credits)
+
 ### Date created
 Include the date you created this project and README file.
 
