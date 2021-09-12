@@ -6,6 +6,8 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
+demarcation_line = '-'*40
+
 
 def get_city():
     """
@@ -17,7 +19,7 @@ def get_city():
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
-    print('-'*40)
+    print(demarcation_line)
     return city
 
 
@@ -30,7 +32,7 @@ def get_month():
     """
     # get user input for month (all, january, february, ... , june)
 
-    print('-'*40)
+    print(demarcation_line)
     return month
 
 
@@ -43,7 +45,7 @@ def get_day():
     """
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
-    print('-'*40)
+    print(demarcation_line)
     return day
 
 
@@ -75,7 +77,7 @@ def time_stats(df):
     # display the most common start hour
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print(demarcation_line)
 
 
 def station_stats(df):
@@ -91,7 +93,7 @@ def station_stats(df):
     # display most frequent combination of start station and end station trip
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print(demarcation_line)
 
 
 def trip_duration_stats(df):
@@ -105,7 +107,7 @@ def trip_duration_stats(df):
     # display mean travel time
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print(demarcation_line)
 
 
 def user_stats(df):
@@ -121,7 +123,7 @@ def user_stats(df):
     # Display earliest, most recent, and most common year of birth
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print(demarcation_line)
 
 
 def main():
