@@ -4,7 +4,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Date created](#date-created)
-- [Post your Work on Github](#post-your-work-on-github)
+- [Explore US Bikeshare Data](#explore-us-bikeshare-data)
 - [Description](#description)
 - [Files used](#files-used)
 - [Credits](#credits)
@@ -12,7 +12,7 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Post your Work on Github
+### Explore US Bikeshare Data
 
 
 ### Description
