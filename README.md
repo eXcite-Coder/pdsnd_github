@@ -17,7 +17,9 @@ Include the date you created this project and README file.
 
 ### Description
 
-  This project forks [Udacity repository](https://github.com/udacity/pdsnd_github) to a [remote repository](https://github.com/eXcite-Coder/pdsnd_github) in Github account. Clone the [remote](https://github.com/eXcite-Coder/pdsnd_github) repository to local machine. Later, as a part of the project "Post your Work on Github", pushes proposed changes to the [remote](https://github.com/eXcite-Coder/pdsnd_github) repository in this Github account.  
+In this project, data provided by Motivate, a bike share system provider for many major cities in the United States, is used to uncover bike share usage patterns.  System usage comparison is made possible for three large cities: Chicago, New York City, and Washington, DC.
+
+Descriptive statistics is used to answer questions about the data. Raw data is displayed upon request by the user.
 
 ### Files used
 
